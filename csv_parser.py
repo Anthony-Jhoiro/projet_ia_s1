@@ -1,6 +1,5 @@
 from typing import List, Type
 import pandas as pd
-import student_dataset as sd
 
 
 def parse_student_csv(filename: str, separator=",", with_headers=True, cast_types: List[Type] = None):
