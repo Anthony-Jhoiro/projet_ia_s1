@@ -1,0 +1,6 @@
+numpy
+dataclass-csv
+pandas
+matplotlib
+yellowbrick
+sklearn
